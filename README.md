@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atharif Pratama Budiman
 - 👀 I’m interested in Basket ball🏀-- Software Developer👨🏻‍💻👨🏻‍💻
-- - 🌱 I’m currently learning Web developer--design--android developer--game developer--
+- 🌱 I’m currently learning Web developer--design--android developer--game developer--
 - 💞️ I’m looking to collaborate on MJIT Company
 - 📫 How to reach me atha55733@gmail.com
 - ⚡ Fun fact: I am a high school student
