@@ -1,4 +1,4 @@
-<h1 align="center">Nǐ hǎo 👋, , wǒ de míngzì shì Atharif Pratama Budiman</h1>
+<h1 align="center">Nǐ hǎo 👋, wǒ de míngzì shì Atharif Pratama Budiman</h1>
 <h3 align="center">Passionate website developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharif-rpl&label=Profile%20views&color=0e75b6&style=flat" alt="atharif-rpl" /> </p>
