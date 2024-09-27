@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Atharif</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Nǐ hǎo 👋, , wǒ de míngzì shì Atharif Pratama Budiman</h1>
+<h3 align="center">Passionate website developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharif-rpl&label=Profile%20views&color=0e75b6&style=flat" alt="atharif-rpl" /> </p>
+
+- 🔭 I’m currently working on **MJIT Company**
+
+- 🤝 I’m looking for help with **javaScript Databases, Kotlin and Python**
+
+- 📫 How to reach me **atha55733@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharif-rpl&show_icons=true&locale=en" alt="atharif-rpl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharif-rpl&" alt="atharif-rpl" /></p>
-
