@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharif-rpl&label=Profile%20views&color=0e75b6&style=flat" alt="atharif-rpl" /> </p>
 
-- 🔭 I’m currently working on **MJIT Company**
+- 🔭 I’m currently working on **MJIT Company And Ourtala.id**
 
-- 🤝 I’m looking for help with **javaScript Databases, Kotlin and Python**
+- 🤝 I’m looking for help with **javaScript Databases, TypeScript, NextJs, ReactJs**
 
 - 📫 How to reach me **atha55733@gmail.com**
 
